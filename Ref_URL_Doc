@@ -1,2 +1,4 @@
-https://github.com/infracloudio/kubernetes-scheduling-examples/blob/master/podAffinity/deployment-Affinity.yaml  ## affinity Deplly
-https://kubernetes-sigs.github.io/aws-load-balancer-controller/v2.2/guide/service/annotations/  ##load balancer annotations
+## affinity Deplly
+https://github.com/infracloudio/kubernetes-scheduling-examples/blob/master/podAffinity/deployment-Affinity.yaml 
+##load balancer annotations
+https://kubernetes-sigs.github.io/aws-load-balancer-controller/v2.2/guide/service/annotations/  
