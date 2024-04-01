@@ -2,3 +2,7 @@
 https://github.com/infracloudio/kubernetes-scheduling-examples/blob/master/podAffinity/deployment-Affinity.yaml 
 ##load balancer annotations
 https://kubernetes-sigs.github.io/aws-load-balancer-controller/v2.2/guide/service/annotations/  
+##AWS EKS set up###
+https://github.com/yasapurnama/Install-Kubernetes-with-AWS-Cloud-Provider
+https://github.com/tarundanda147/k8sclustersetup
+
