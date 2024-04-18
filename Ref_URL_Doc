@@ -13,3 +13,9 @@ https://github.com/tarundanda147/manifestfiles
 https://github.com/tarundanda147/hello-world-war
 ##Lohith repo##
 https://github.com/Lohras/hello-world-war
+##Autoscale##
+https://github.com/kubernetes/autoscaler/tree/master/cluster-autoscaler/cloudprovider/aws
+https://github.com/kubernetes/autoscaler/blob/master/cluster-autoscaler/cloudprovider/aws/examples/cluster-autoscaler-one-asg.yaml
+https://www.kubecost.com/kubernetes-autoscaling/kubernetes-cluster-autoscaler/
+##ingress controller
+https://github.com/techiescamp/nginx-ingress-controller
